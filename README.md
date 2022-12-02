@@ -30,7 +30,7 @@ MYSQL, la table doit contenir les champs suivant (id_etudiant, nom , prénom , c
 ![image](https://user-images.githubusercontent.com/101791324/205178772-a9ebd934-27e3-46c4-a101-7ecf6f81198f.png)
 
 ### Architecture du projet EtudiantCote_Client :
-![image](https://user-images.githubusercontent.com/101791324/205179482-5dd4b06a-128a-4295-9aad-9e0485f305cb.png)
+![image](https://user-images.githubusercontent.com/101791324/205376946-77c1bd90-bd76-4928-9c67-5622b17980bd.png)
 ### Utiliser l'annotation @EJB pour fare la laison avec le projet EtudiantEJB :
 ![image](https://user-images.githubusercontent.com/101791324/205179738-14157780-3f42-476d-9544-31131a1278df.png)
 
