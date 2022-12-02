@@ -7,7 +7,7 @@ Mise en place d’une application distribuée JEE  Objectif : L’objectif princ
 ### **_Outils :_** Eclipse, Maven, Tomcate, MySQL, JPA, EJB, WilddFly
 
 ### Architecture du projet EtudiantEJB :
-![image](https://user-images.githubusercontent.com/101791324/204805208-1224f4b2-0306-4a31-93a0-c03863b15ec8.png)
+![image](https://user-images.githubusercontent.com/101791324/205376820-cde67536-7086-4ad9-a2c3-8c908561577f.png)
 
 ### **Etape1 :**
  Installez le plugin Jboss AS en tapant sur le marketplace d’eclipse le mot clé «JBoss Tools
