@@ -1,6 +1,6 @@
-# Application-using-EJB-Entreperise-Java-Beans-
-EJB-Architecture Client/Serveur 
-# Application-JEE-using-WildFly
+# Application EJB-(Entreperise-Java-Beans) using-WildFly
+# EJB-Architecture Client/Serveur 
+
 Mise en place d’une application distribuée JEE  Objectif : L’objectif principal de cet atelier et de pratiquer la mise en place d’une application distribuée en utilisant une variété des technologies centrées sur EJB3.
 
 
